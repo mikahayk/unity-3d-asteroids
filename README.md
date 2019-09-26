@@ -1,5 +1,3 @@
-# unity-3d-asteroids
-
-Simple 3D asteroid game made with Unity engine
+Simple 3D asteroid game made with Unity engine #unity #3d #asteroids #sfx
 
 ![](demo.gif)
